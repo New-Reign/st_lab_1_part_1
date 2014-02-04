@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Lab_1_Part_1\Lab_1_Part_1\bin\Debug\Lab_1_Part_1.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Lab_1_Part_1\Lab_1_Part_1\bin\Debug\Lab_1_Part_1.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Lab_1_Part_1\Lab_1_Part_1\bin\Debug\Lab_1_Part_1.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Lab_1_Part_1\Lab_1_Part_1\obj\Debug\Lab_1_Part_1.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Lab_1_Part_1\Lab_1_Part_1\obj\Debug\Lab_1_Part_1.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Lab_1_Part_1\Lab_1_Part_1\obj\Debug\Lab_1_Part_1.pdb
